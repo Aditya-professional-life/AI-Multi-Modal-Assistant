@@ -1,0 +1,2 @@
+
+wake_word = "bro"
